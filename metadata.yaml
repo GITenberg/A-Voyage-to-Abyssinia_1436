@@ -1,0 +1,44 @@
+_repo: A-Voyage-to-Abyssinia_1436
+_version: 0.0.1
+alternative_title: Itinerário. English
+contributor:
+  translator:
+    agent_name: Johnson, Samuel
+    birthdate: 1709
+    deathdate: 1784
+    gutenberg_agent_id: '297'
+    url: http://www.gutenberg.org/2009/agents/297
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Johnson
+creator:
+  author:
+    agent_name: Lobo, Jerónimo, 1596?-1678
+    aliases:
+    - Lobo, Jeronymo
+    - Lobo, Jerome
+    deathdate: 1678
+    gutenberg_agent_id: '633'
+    url: http://www.gutenberg.org/2009/agents/633
+    wikipedia: http://en.wikipedia.org/wiki/Jer%C3%B3nimo_Lobo
+  editor:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+description: ''
+gutenberg_issued: '1998-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1436'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethiopia -- Description and travel -- Early works to 1800'
+- !lcsh 'Lobo, Jerónimo, 1596?-1678 -- Travel -- Ethiopia'
+- !lcc 'DT'
+- GITenberg
+title: A Voyage to Abyssinia
+url: http://www.gutenberg.org/ebooks/1436
